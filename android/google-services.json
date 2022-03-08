@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693521529695",
+    "project_id": "mayele-5a6b5",
+    "storage_bucket": "mayele-5a6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693521529695:android:10d1f1cd92152e6cd414ea",
+        "android_client_info": {
+          "package_name": "com.example.reseausociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693521529695-tk28nk4ipnlr94hdggo1rcc69eoc9l3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reseausociallogin",
+            "certificate_hash": "94e667361a9f60a737007ed1cc3762c30a97bf9a"
+          }
+        },
+        {
+          "client_id": "693521529695-b35qnuhsrr8tu8ofk6a4crb9lho5ofi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0UhgNIr55M3ktxUMei7gIXFY6xMH48Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693521529695-b35qnuhsrr8tu8ofk6a4crb9lho5ofi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
